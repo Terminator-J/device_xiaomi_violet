@@ -1413,7 +1413,6 @@ vendor/lib/libOmxSwVdec.so
 vendor/lib/libOmxSwVencMpeg4.so
 vendor/lib/libOmxVdec.so
 vendor/lib/libOmxVenc.so
--vendor/lib/libplatformconfig.so
 vendor/lib/libstagefrighthw.so
 vendor/lib64/libarbitrarybytes.so
 vendor/lib64/libc2dcolorconvert.so
@@ -1428,7 +1427,6 @@ vendor/lib64/libOmxSwVdec.so
 vendor/lib64/libOmxSwVencMpeg4.so
 vendor/lib64/libOmxVdec.so
 vendor/lib64/libOmxVenc.so
--vendor/lib64/libplatformconfig.so
 vendor/lib64/libstagefrighthw.so
 
 # NFC
